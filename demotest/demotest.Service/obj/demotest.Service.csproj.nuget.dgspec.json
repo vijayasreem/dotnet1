@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
+        "projectName": "demotest.DataAccess",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj",
+        "projectName": "demotest.DTO",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj",
+        "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj",
+        "projectName": "demotest.Service",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj",
+        "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj"
+              },
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
