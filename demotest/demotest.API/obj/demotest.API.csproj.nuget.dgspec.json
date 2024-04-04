@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.API\\demotest.API.csproj": {}
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.API\\demotest.API.csproj": {}
   },
   "projects": {
-    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.API\\demotest.API.csproj": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.API\\demotest.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.API\\demotest.API.csproj",
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.API\\demotest.API.csproj",
         "projectName": "demotest.API",
-        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.API\\demotest.API.csproj",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.API\\demotest.API.csproj",
         "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.API\\obj\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
-                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj"
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj"
               },
-              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj": {
-                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj"
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\demotest.Service.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\demotest.Service.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
         "projectName": "demotest.DataAccess",
-        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj",
         "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\obj\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -103,8 +103,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
-                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj"
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj",
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj",
         "projectName": "demotest.DTO",
-        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj",
         "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\obj\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -197,14 +197,14 @@
         }
       }
     },
-    "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj": {
+    "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\demotest.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj",
+        "projectUniqueName": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\demotest.Service.csproj",
         "projectName": "demotest.Service",
-        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\demotest.Service.csproj",
+        "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\demotest.Service.csproj",
         "packagesPath": "C:\\Users\\mmadipally\\.nuget\\packages\\",
-        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.Service\\obj\\",
+        "outputPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmadipally\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -219,11 +219,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
-                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj"
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DataAccess\\demotest.DataAccess.csproj"
               },
-              "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
-                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1924\\202403091526\\demotest\\demotest.DTO\\demotest.DTO.csproj"
+              "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj": {
+                "projectPath": "D:\\Amar\\20231005_Debug\\Apps\\1\\1968\\202404041245\\demotest\\demotest.DTO\\demotest.DTO.csproj"
               }
             }
           }

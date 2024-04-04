@@ -10,3 +10,15 @@ D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DTO\obj\Debug\
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DTO\obj\Debug\net7.0\refint\demotest.DTO.dll
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.pdb
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DTO\obj\Debug\net7.0\ref\demotest.DTO.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\bin\Debug\net7.0\demotest.DTO.deps.json
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\bin\Debug\net7.0\demotest.DTO.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\bin\Debug\net7.0\demotest.DTO.pdb
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.csproj.AssemblyReference.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.AssemblyInfoInputs.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.AssemblyInfo.cs
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.csproj.CoreCompileInputs.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\refint\demotest.DTO.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\demotest.DTO.pdb
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DTO\obj\Debug\net7.0\ref\demotest.DTO.dll

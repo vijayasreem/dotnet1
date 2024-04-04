@@ -13,3 +13,11 @@ D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DataAccess\obj
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DataAccess\obj\Debug\net7.0\refint\demotest.DataAccess.dll
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.pdb
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.DataAccess\obj\Debug\net7.0\ref\demotest.DataAccess.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.csproj.AssemblyReference.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.AssemblyInfoInputs.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.AssemblyInfo.cs
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.csproj.CoreCompileInputs.cache
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\refint\demotest.DataAccess.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.DataAccess\obj\Debug\net7.0\demotest.DataAccess.pdb

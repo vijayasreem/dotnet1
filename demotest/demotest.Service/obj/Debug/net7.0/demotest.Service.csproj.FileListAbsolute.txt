@@ -15,3 +15,6 @@ D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.Service\obj\De
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.Service\obj\Debug\net7.0\refint\demotest.Service.dll
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.Service\obj\Debug\net7.0\demotest.Service.pdb
 D:\Amar\20231005_Debug\Apps\1\1924\202403091526\demotest\demotest.Service\obj\Debug\net7.0\ref\demotest.Service.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.Service\obj\Debug\net7.0\demotest.Service.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.Service\obj\Debug\net7.0\refint\demotest.Service.dll
+D:\Amar\20231005_Debug\Apps\1\1968\202404041245\demotest\demotest.Service\obj\Debug\net7.0\demotest.Service.pdb
